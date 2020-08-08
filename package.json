@@ -1,0 +1,15 @@
+{
+    "name": "WhatsAppDesktop",
+    "main": "app/index.html",
+    "description": "WhatsApp Desktop",
+    "version": "0.1.0",
+    "window": {
+        "title": "node-webkit demo",
+        "toolbar": true,
+        "frame": true,
+        "width": 1000,
+        "height": 900,
+        "position": "mouse",
+        "icon": "app/img/icon.png"
+      }
+}
