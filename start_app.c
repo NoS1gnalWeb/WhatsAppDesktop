@@ -4,6 +4,6 @@
 
 
 int main(){
-    system("cd && cd Documents/Programmation/Web/WhatsAppDesktop/nwjs && ./whatsapp");
+    system("cd && cd YOUR_DIR && ./whatsapp");
     return 0;
 }
