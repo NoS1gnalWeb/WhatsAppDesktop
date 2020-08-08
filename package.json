@@ -4,7 +4,7 @@
     "description": "WhatsApp Desktop",
     "version": "0.1.0",
     "window": {
-        "title": "node-webkit demo",
+        "title": "WhatsAppDesktop",
         "toolbar": true,
         "frame": true,
         "width": 1000,
