@@ -9,9 +9,9 @@ You need to download sdk nwjs here https://nwjs.io/
 Drag and drop all files in your root directory of nwjs
 
 ## Configure and start 
-First, modify start_app.c and put your directory where nwjs are like this 
-```c
-system("cd && cd Documents/myApp && ./whatsapp");
+First, modify start (with nano) and put your directory where nwjs are like this 
+```sh
+dir="Documents/myApp"
 ```
 Then, execute make file in sudo like 
 ```
