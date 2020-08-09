@@ -1,0 +1,7 @@
+#!/bin/bash
+
+dir="YOUR_DIR"
+
+if [ "$dir" ]; then 
+    cd && cd $dir && ./whatsapp
+fi
