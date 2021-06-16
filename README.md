@@ -1,4 +1,4 @@
-# WhatsAppDesktop
+# WhatsAppDesktop (outdated)
 WhatsApp desktop app for Linux using nwjs
 
 # Installation
